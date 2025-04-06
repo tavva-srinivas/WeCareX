@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "734891663081",
+    "project_id": "healthcare-booking-app-489a9",
+    "storage_bucket": "healthcare-booking-app-489a9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734891663081:android:dcd58e12f296c93e1cda78",
+        "android_client_info": {
+          "package_name": "com.mycompany.healthcarebookingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734891663081-tod8hh25f6r58eurt8duva7ktnvh7g71.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.healthcarebookingapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "734891663081-49ni0hq8cuqg0bmgrlh7ddm427dih25g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAooG9H2Y85ZUD9nHWvIRyAsXQ5DRnhvWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734891663081-49ni0hq8cuqg0bmgrlh7ddm427dih25g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "734891663081-32gu1tlg37ote6hnsjl42oamjqugee0i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.healthcarebookingapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
